@@ -1,10 +1,5 @@
 # SemanaTecMay9
-Practicar el github
-# SemanaTecMay9
-Practicar el github
-siiiuuuuuu
 
-```python
 """Paint, for drawing shapes.
 
 Exercises
@@ -101,24 +96,3 @@ onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 #siempre debe ser la ultima instrucción- glutmainloop()- 
 done()
-```
----
-#link 
-[Titulo] (https://github.com/)
-
-#imagen
-![titulo](https://i.ytimg.com/vi/P4UYN4Lt_3A/hqdefault.jpg)
-
-
-#Table
-|Syntax     |   Description|
-|---------------|------------|
-| Header    | Title|     
-| Paragraph | Text |
-
-#Actividades 
-- [x] Write the press release
-- [x] Update the website
-- [x] Contact the media
-
-
