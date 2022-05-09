@@ -72,12 +72,20 @@ def tap(x, y):
 def store(key, value):
     """Store value in state at key."""
     state[key] = value
-
+up()
+goto(-200,180)
+color("#ff7766")
+down()
 
 state = {'start': None, 'shape': line}
-setup(420, 420, 370, 0)
+setup(420, 420, 500, 0)
+#Programacion basada en eventos 
+#funcion que atinde los eventos del mosuse
+
 onscreenclick(tap)
 listen()
+
+#funcion que atiene los eventos del teclado 
 onkey(undo, 'u')
 onkey(lambda: color('black'), 'K')
 onkey(lambda: color('white'), 'W')
@@ -89,6 +97,7 @@ onkey(lambda: store('shape', square), 's')
 onkey(lambda: store('shape', circle), 'c')
 onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
+#siempre debe ser la ultima instrucción- glutmainloop()- 
 done()
 ```
 ---
