@@ -1,7 +1,5 @@
 # SemanaTecMay9
 Practicar el github
-siiiuuuuuu
-
 ```python
 """Paint, for drawing shapes.
 
@@ -118,4 +116,3 @@ done()
 - [x] Write the press release
 - [x] Update the website
 - [x] Contact the media
-
