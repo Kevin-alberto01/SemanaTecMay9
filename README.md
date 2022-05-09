@@ -24,7 +24,7 @@ Lista desordenada de sus momentos de la dia de la Madre
 2. Marco de foto
 3. Funda de celular 
 
-'''Pyhon 
+````Pyhon 
 """Paint, for drawing shapes.
 
 Exercises
@@ -112,3 +112,7 @@ onkey(lambda: store('shape', circle), 'c')
 onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 done()
+````
+
+
+
