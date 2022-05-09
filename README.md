@@ -112,6 +112,12 @@ onkey(lambda: store('shape', circle), 'c')
 onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 done()
+```
 ---
+#link 
+[Titulo] (https://github.com/)
+
+#imagen
+![titulo](https://www.google.com/search?q=mesiver&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjA5p3B79L3AhWgDkQIHe9nDmgQ_AUoAXoECAEQAw&biw=1536&bih=726&dpr=1.25#imgrc=P6g3TzSySvx3qM)
 
 
