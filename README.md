@@ -1,29 +1,6 @@
 # SemanaTecMay9
 Practicar el github
 
-# 1.Header 
-## -Kevin-A00832188-IRS-4 
-### - Monterrey 
-
-** 2. Bold **
-* 3. Italica *
->blockquote
-
-Lista ordenada de sus platillos favoritos 
-1. Lasaña 
-2. Pizza
-3. Sushi
-4. Pastel de zanahoria
-5. Mango 
-6. Carne asada
-7. Yougurt griego
-8. Discada 
-
-Lista desordenada de sus momentos de la dia de la Madre
-1. Manualidades
-2. Marco de foto
-3. Funda de celular 
-
 ```python
 """Paint, for drawing shapes.
 
