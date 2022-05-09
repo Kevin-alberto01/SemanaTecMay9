@@ -118,6 +118,16 @@ done()
 [Titulo] (https://github.com/)
 
 #imagen
-![titulo](https://www.google.com/search?q=mesiver&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjA5p3B79L3AhWgDkQIHe9nDmgQ_AUoAXoECAEQAw&biw=1536&bih=726&dpr=1.25#imgrc=P6g3TzSySvx3qM)
+![titulo](https://i.ytimg.com/vi/P4UYN4Lt_3A/hqdefault.jpg)
 
 
+#Table
+|Syntax     |   Description|
+|---------------|------------|
+| Header    | Title|     
+| Paragraph | Text |
+
+#Actividades 
+- [x] Write the press release
+- [x] Update the website
+- [x] Contact the media
